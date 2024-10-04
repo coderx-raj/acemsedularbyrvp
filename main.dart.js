@@ -39813,10 +39813,10 @@ K(a){var s,r,q,p=null,o=t.Y,n=this.d
 n===$&&A.a()
 n=A.cj(B.zV,n,p)
 s=A.b([new A.dE(2,B.dS,B.B1,new A.i(0,5),20)],t.sq)
-o=A.adw(A.eV(p,new A.Im(new A.yA(A.aN2(p,p,new A.m0("assets/logo.png",p,p)),180,180,B.l0,p),p),B.u,p,new A.di(p,p,p,p,s,p,B.dU),p,p,p,p,p,p,p),new A.ax(n,new A.av(0.9,1,o),o.i("ax<al.T>")))
+o=A.adw(A.eV(p,new A.Im(new A.yA(A.aN2(p,p,new A.m0("assets/acemlogo.png",p,p)),180,180,B.l0,p),p),B.u,p,new A.di(p,p,p,p,s,p,B.dU),p,p,p,p,p,p,p),new A.ax(n,new A.av(0.9,1,o),o.i("ax<al.T>")))
 n=this.e
 n===$&&A.a()
-s=A.ab("Auto Timetable",p,p,p,B.Oc,p,p)
+s=A.ab("Acem Schedular",p,p,p,B.Oc,p,p)
 r=A.ab("Organize your schedule effortlessly",p,p,p,A.dL(p,p,B.lv,p,p,p,p,p,p,p,p,18,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)
 q=this.e
 return A.hg(p,A.eV(p,A.fV(A.d0(A.b([o,B.y5,new A.dn(n,!1,new A.Nj(new A.ann(),s,p),p),B.Nj,new A.dn(n,!1,r,p),B.Nl,new A.dn(q,!1,A.aA1(B.AW,p,new A.wr(B.t_,t.ZU)),p),B.Nm,new A.dn(q,!1,A.ab("Powered by RVP Software Pvt. Ltd.",p,p,p,B.OZ,p,p),p)],t.p),B.S,B.eu,B.V),p,p),B.u,p,B.zD,p,p,p,p,p,p,p))}}
